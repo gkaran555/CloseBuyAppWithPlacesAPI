@@ -1,6 +1,6 @@
 
 App that will get nearby places, such as restaurants based on the user’s current location.
-during setuo put api key
+During setup put: api key
 
 ## Build Setup
 
